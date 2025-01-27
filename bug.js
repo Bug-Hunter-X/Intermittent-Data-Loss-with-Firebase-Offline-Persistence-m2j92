@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an unusual issue where data wasn't persisting correctly across sessions, even with proper offline persistence enabled.  The problem wasn't consistent; sometimes data would save reliably, other times it wouldn't. There were no apparent errors in the console logs.
